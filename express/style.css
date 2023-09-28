@@ -1,0 +1,15 @@
+.w3-justify{
+	font-style:italic;
+}
+li{
+	background: rgb(247, 211, 50);
+}
+.w3-padding{
+	color: black;
+}
+#images{
+	display:none;
+}
+h2{
+	display:none;
+}
